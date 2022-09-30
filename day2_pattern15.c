@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main()
+int main();
+int pattern15()
 {
 
     int n, c[10], a[10] = {1}, k = 1, i, j, b = 1, index = 0, r;

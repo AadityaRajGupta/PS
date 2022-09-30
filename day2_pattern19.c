@@ -36,50 +36,7 @@ int ncr(int n,int r)
 {
     return (fact(n)/fact(r)/fact(n-r));
 }
-/*
-int fib(int n)
-{
-    if(n==1)
-    {
-        d[n]= 0;
-    }
-    else
-    {
-        if (n==2)
-        {
-            d[n]= 1;
-        }
-        else
-        {
-            if(d[n]==0)
-                d[n]= (fib(n-1)+fib(n-2));
-        }
-    }
-    return d[n];
-}
-int main()
-{
-    int count=0;
-    for(int i=1;i<=100;i++)
-    {
-        printf(" %u   \n",fib(i));
-        count++;
-    }
-    printf("count: %d",count);
-}
-*/
-int gcd(int dividend,int divisor)
-{
-    if (dividend%divisor==0)
-    {
-        return divisor;
-    }
-    else
-    {
-        gcd(divisor,dividend/divisor);
-    }
-}
-int 
+
 int main()
 {
     #ifndef ONLINE_JUDGE

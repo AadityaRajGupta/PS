@@ -1,21 +1,23 @@
 #include <stdio.h>
-#include "pattern2.c"
-#include "pattern3.c"
-#include "pattern4.c"
-#include "pattern5.c"
-#include "pattern6.c"
-#include "pattern7.c"
-#include "pattern8.c"
-#include "pattern9.c"
-#include "pattern10.c"
-#include "pattern11.c"
-#include "pattern12.c"
-#include "pattern13.c"
-#include "pattern14.c"
-#include "pattern15.c"
-#include "pattern16.c"
-#include "pattern17.c"
-#include "pattern18.c"
+#include "day2_pattern2.c"
+#include "day2_pattern3.c"
+#include "day2_pattern4.c"
+#include "day2_pattern5.c"
+#include "day2_pattern6.c"
+#include "day2_pattern7.c"
+#include "day2_pattern8.c"
+#include "day2_pattern9.c"
+#include "day2_pattern10.c"
+#include "day2_pattern11.c"
+#include "day2_pattern12.c"
+#include "day2_pattern13.c"
+#include "day2_pattern14.c"
+#include "day2_pattern15.c"
+#include "day2_pattern16.c"
+#include "day2_pattern17.c"
+#include "day2_pattern18.c"
+#include "day2_pattern19.c"
+#include "day2_pattern20.c"
 /*
 1
 23
@@ -54,6 +56,7 @@ int main()
     pattern10();
     pattern11();
     pattern12();
+    pattern15();
 
     printf("\n\n");
     pattern12_short();
