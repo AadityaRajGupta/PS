@@ -1,8 +1,8 @@
 #include <stdio.h>
 //Write a program to find the sum of the series using the function. a) 1!/1+2!/2+3!/3+4!/4+5!/5
 
-int d[1000]={0};
-int fact(int num)
+int d[10]={0};
+float fact(int num)
 {
     if (num <= 1)
     {

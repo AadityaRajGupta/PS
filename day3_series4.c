@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <math.h>
 //1- x + x2/2! - x3/3! + x4/4!......
-int d[1000]={0};
-int fact(int num)
+int d[10]={0};
+float fact(int num)
 {
     if (num <= 1)
     {
@@ -24,7 +24,7 @@ int main()
     int i,n=3,x=1;
     for (i=1;i<=n;i++)
     {
-        if (n%2==0)
+        if (i%2==0)
             sum=sum+(pow(x,i)/fact(i));
         else 
             sum=sum-(pow(x,i)/fact(i));

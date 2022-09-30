@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <math.h>
 //x- x3/3! + x5/5! - x7/7!........ 
-int d[100]={0};
-int fact(int num)
+int d[10]={0};
+float fact(int num)
 {
     if (num <= 1)
     {
@@ -21,7 +21,7 @@ int series5();
 int main()
 {
     double sum=0;
-    int i,n=2,x=1,num=1;
+    int i,n=4,x=1,num=1;
     for (i=0;i<n;i++)
     {
         if (i%2==0)

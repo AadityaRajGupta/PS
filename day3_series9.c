@@ -1,4 +1,5 @@
 #include <stdio.h>
+//https://practice.geeksforgeeks.org/problems/pattern-printing1347/1
 
 int main()
 {

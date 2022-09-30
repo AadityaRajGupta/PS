@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <math.h>
 //1+ x + x2/2! + x3/3! + x4/4!......
-int d[1000]={0};
-int fact(int num)
+int d[10]={0};
+float fact(int num)
 {
     if (num <= 1)
     {

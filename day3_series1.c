@@ -2,8 +2,8 @@
 
 //Find the sum of first n terms of the following series: 1! + 2! + 3! + 4!...................
 
-int d[1000]={0};
-int fact(int num)
+int d[10]={0};
+float fact(int num)
 {
     if (num <= 1)
     {
