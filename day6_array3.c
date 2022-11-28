@@ -22,7 +22,10 @@ int main()
             sum_col+=a[j][i];
         }
         if (sum_col==sum_row)
-            count++;
+        {
+            if (sum_col==temp)
+                count++;
+        }
     }
     if(size==count)
         printf("GIVEN MATRIX IS MAGIC MATRIX");
