@@ -1,4 +1,7 @@
+// Minimum Height Triangle
 //https://www.hackerrank.com/challenges/lowest-triangle/problem
+
+
 /*
 ?CONCEPT:
 For a given base b and area a, we want to know what is the smallest integer h, such that there exists a triangle with base b, height h, and area at least a.
