@@ -1,0 +1,57 @@
+6,5) Print Matrix in spiral form
+6,8) Matrix Rotation at 360 Degrees clockwise and comparison between original and rotated matrix
+
+https://www.hackerrank.com/challenges/game-with-cells/problem
+https://www.hackerrank.com/challenges/connecting-towns/problem
+https://www.hackerrank.com/challenges/p1-paper-cutting/problem
+https://www.hackerrank.com/challenges/best-divisor/problem
+https://www.hackerrank.com/challenges/restaurant/problem
+https://www.hackerrank.com/challenges/reverse-game/problem
+https://www.hackerrank.com/challenges/strange-grid/problem
+https://www.hackerrank.com/challenges/halloween-party/problem
+https://www.hackerrank.com/challenges/filling-jars/problem
+
+https://www.hackerrank.com/challenges/harry-potter-and-the-floating-rocks/forum
+https://www.hackerrank.com/challenges/constructing-a-number/problem
+https://www.hackerrank.com/challenges/sherlock-and-gcd/problem
+https://www.hackerrank.com/challenges/identify-smith-numbers/problem
+https://www.hackerrank.com/challenges/john-and-gcd-list/problem
+https://www.hackerrank.com/challenges/picking-cards/problem
+https://www.hackerrank.com/challenges/combo-meal/problem
+https://www.hackerrank.com/challenges/number-groups/problem
+https://www.hackerrank.com/challenges/points-on-a-line/problem
+https://www.hackerrank.com/challenges/most-distant/problem
+https://practice.geeksforgeeks.org/problems/print-alternate-elements-of-an-array/1
+https://www.hackerrank.com/challenges/mini-max-sum/problem
+https://practice.geeksforgeeks.org/problems/ishaan-loves-chocolates/0/
+https://practice.geeksforgeeks.org/problems/fighting-the-darkness3949/1/
+https://practice.geeksforgeeks.org/problems/multiply-left-and-right-array-sum/0/
+https://practice.geeksforgeeks.org/problems/absolute-difference-1/0/
+https://practice.geeksforgeeks.org/problems/tough-competitors/0/
+https://practice.geeksforgeeks.org/problems/find-first-and-last-occurrence-of-x/0
+https://leetcode.com/problems/two-sum/
+https://practice.geeksforgeeks.org/problems/last-duplicate-element-in-a-sorted-array/0/
+
+
+DS:
+
+lab 13:
+Program of Array Implementaion of Linear Queue
+Program of Array Implementaion of CircularQueue
+Program for ArrayImplementation of Double Ended Queue
+Program for Array Implementation of Priority Queue (Ascending Array)
+Program for Array Implementation of Priority Queue (Descending Array)
+Program for Heap Implementation of Priority Queue
+Program for Stack implementation using Queue
+Program for Queue implementation using Stack
+Program for Linear Linked List Primitive operations
+Program for creation of Linked List header file and test of basic functions through that
+Program for finding count of Nodes in Linked List
+Program for concatenation of Linear Linked List
+Program to implement Linear search.
+Program to insert an item at any given position in the linked List
+Program for Creation of Copy of the Linked list
+Program for counting nodes containing even and odd information.
+
+
+
