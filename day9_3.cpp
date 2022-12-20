@@ -1,4 +1,8 @@
-/* //https://www.hackerrank.com/challenges/handshake/problem
+/*
+Maximum Draws
+https://www.hackerrank.com/challenges/maximum-draws/problem
+
+
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -7,18 +11,15 @@ string ltrim(const string &);
 string rtrim(const string &);
 
 /*
- * Complete the 'handshake' function below.
+ * Complete the 'maximumDraws' function below.
  *
  * The function is expected to return an INTEGER.
  * The function accepts INTEGER n as parameter.
  *
 
-!int handshake(int n) {
-?    if (n==1)
-?        return 0;
-?    else
-?    return (handshake(n-1) + (n-1)) ;       permutation 
-!}
+?int maximumDraws(int n) {
+    ! return n+1;         // bus +1 kara
+?}
 
 int main()
 {
@@ -35,7 +36,7 @@ int main()
 
         int n = stoi(ltrim(rtrim(n_temp)));
 
-        int result = handshake(n);
+        int result = maximumDraws(n);
 
         fout << result << "\n";
     }
